@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dd8e749870cac2",
+        "id": "5dbf265eee4c47f5",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Animation/Animation Sequencer.md",
+                "file": "공부해야할것/순서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animation Sequencer"
+              "title": "순서"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SpartaGameInstance",
+                "query": "mirror",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,11 +167,20 @@
   },
   "active": "77e769501ad61e59",
   "lastOpenFiles": [
-    "Unreal/Animation/Animation Sequence.md",
-    "Unreal/Animation/Animation Sequencer.md",
-    "Image/Unreal/Add_AnimationKey_To_ControlRig_with_Sequencer.png",
+    "공부해야할것/Server.md",
+    "공부해야할것/순서.md",
+    "공부해야할것/Unreal 서버 최적화.md",
+    "공부해야할것/단축키.md",
+    "Unreal/Udemy_강좌/GAS/대본/section3/6. GAS Replication Mode.md",
+    "공부해야할것",
     "Untitled.md",
     "Untitled 1.md",
+    "Unreal/Udemy_강좌/GAS/전체.md",
+    "TIL/2024/12/12-18.md",
+    "TIL/2024/12/12-26.md",
+    "Unreal/Animation/Animation Sequencer.md",
+    "Unreal/Animation/Animation Sequence.md",
+    "Image/Unreal/Add_AnimationKey_To_ControlRig_with_Sequencer.png",
     "Visual_Studio/file.md",
     "Visual_Studio/Setting.md",
     "TIL/2025/5/05-21.md",
@@ -186,13 +195,6 @@
     "Unreal/Animation/6_Chooser.md",
     "Studio/Buildup.md",
     "Git/Reset.md",
-    "Git/Push_&_Pull.md",
-    "Error/VS_Error.md",
-    "Error/Unreal_Error.md",
-    "Error/C++_Error.md",
-    "c++/WinAPI/function.md",
-    "c++/STL/Vector.md",
-    "c++/STL/String.md",
     "Image/GAS_Project/GASproj_CreateABT.png",
     "Studio",
     "Image/Pasted image 20250218223134.png",
@@ -210,7 +212,6 @@
     "Unreal/Widget",
     "Git",
     "TIL/2025/5",
-    "Unreal/Animation/Animation_Sample_Project_분석",
-    "Unreal/Project/PlayerAction_Project"
+    "Unreal/Animation/Animation_Sample_Project_분석"
   ]
 }
