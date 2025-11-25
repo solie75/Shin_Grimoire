@@ -34,7 +34,7 @@ int main()
 }
 ```
 
-1. [next_permutation](/c++/STL/Algorithm.md#next_permutation)
+1. [next_permutation](Algorithm.md#next_permutation)
 
 2. 백트래킹.
 
