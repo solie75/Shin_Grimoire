@@ -74,3 +74,23 @@ B1 --> B2
 
 ```
 
+# 화살표
+
+# 수식 및 화살표 테스트
+
+```text
+# 수식 및 화살표 테스트 
+1. **기본 화살표:** $A \to B$ 
+2. **긴 화살표:** $A \longrightarrow B$ 
+3. **설명 포함:** $A \xrightarrow{process} B$ 
+4. **쌍방향:** $Client \leftrightarrow Server$ 
+5. **함의(Imply):** $True \implies Success$
+```
+
+1. **기본 화살표:** $A \to B$
+2. **긴 화살표:** $A \longrightarrow B$
+3. **설명 포함:** $A \xrightarrow{process} B$
+4. **쌍방향:** $Client \leftrightarrow Server$
+5. **함의(Imply):** $True \implies Success$
+
+

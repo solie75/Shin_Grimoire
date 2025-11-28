@@ -1,0 +1,21 @@
+- harvest  : 수확하다. 수집하다.
+- Dauant : 겁먹게 하다, 기세를 꺾다, 위협하다. (어떤 사람이 무언가를 할 수 있는 능력에 대해 두렵게 만들거나, 의욕을 꺾어 위축되게 만드는 것.) / daunting : 어려운
+- Carry out : 어떤 계획, 명령, 약속, 실험 등을 ' 책임지고 끝까지 해낸다 ' 는 느낌이 강하다. 그래서 비즈니스, 군대, 연구, 개발 등 공적이고 전문적인 상황에서 자주 사용된다.
+	- Do : 그냥 하는 것 (가벼움)
+	- Carry out : 맡은 바를 수행해서 완수하는 것 (무게감 있음)
+- Instruction : in programming, instruction is a specitic order given to a computer's processor to perform a task
+- Prerequisite : 전제 조건, 필수 조건.
+- simplify : 단순화 하다.
+- automate : 자동화 하다. (Auto 스스로 + Matos 움직이다.)
+
+- -fy 로 끝나는 단어는 ~ 하게 만들다 라는 뜻을 가진다.
+	- Class (계층/종류) -> Classify (분류하다)
+	- Note (표시/메모) -> Notify (알리다/통지하다)
+	- Just (올바른) -> Justify (정당화하다/ 맞춰주다(텍스트 정렬할 때 많이 쓰임.))
+
+- precedence : 우선순위 / A takes precedence over B (A 가 B 를 이긴다 ) -> A 설정을 따른다.
+- Cryptography : 암호학, 암호
+- Breeze through : 산들바람(breeze)처럼 통과하다(through) 라는 뜻으로, 빠르게 훑어보다, 가볍게 살펴보고 넘어가다, 식은 죽 먹기다, 수월하게 해내다 등으로 해석할 수 있다.
+- stand for : ~의 약자이다. ~을 의미하다. / ~을 지지하다, 옹호하다
+- administrative privileges : 관리자 권한.
+- Cryptic : 비밀스러운, 수수께끼 같은, 이해하기 어려운 (의미가 모호하거나 숨겨져 있어 이해하기 어려운 상황이나 메시지를 묘사할 때 사용된다.)

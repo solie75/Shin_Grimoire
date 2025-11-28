@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5dbf265eee4c47f5",
+        "id": "518e91f4ce386546",
         "type": "tabs",
         "children": [
           {
-            "id": "77e769501ad61e59",
+            "id": "bad2cc993f36b058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Server/02_Unreal_Source_Code_Build.md",
+                "file": "EN_temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Unreal_Source_Code_Build"
+              "title": "EN_temp"
+            }
+          },
+          {
+            "id": "29c57ddfceeca82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "png to jpg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "png to jpg"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -162,11 +178,79 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "77e769501ad61e59",
+  "floating": {
+    "id": "fdd68e810c169076",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c1e32c4784f97ea8",
+        "type": "window",
+        "children": [
+          {
+            "id": "03065b0223f19397",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e51084382775085",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "대사 번역 임시 파일..md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "대사 번역 임시 파일."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 45,
+        "y": 223,
+        "width": 571,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "29c57ddfceeca82c",
   "lastOpenFiles": [
+    "Today_Memo.md",
+    "png to jpg.md",
+    "Pasted image 20251128184221.png",
+    "Pasted image 20251128184133.png",
+    "Pasted image 20251128184034.png",
+    "Pasted image 20251128183929.png",
+    "Pasted image 20251128183821.png",
+    "대사 번역 임시 파일..md",
+    "EN_temp.md",
+    "CS/Operating System/Linux/Linux_Basic.md",
+    "CS/Operating System/Linux",
+    "().md",
+    "Server/Server Refer.md",
+    "IDE/Visual_Studio/Setting.md",
+    "Obsidian/How to create a custom hotkey to insert text.md",
+    "Template/Arrow.md",
+    "Untitled 1.md",
+    "Template",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Programming Language/Build_System/CMake.md",
+    "Obsidian/Markdown Math Syntax.md",
+    "Obsidian/How To Change Skin Theme.md",
+    "Obsidian/Folder Custom Sorting.md",
+    "Obsidian/How To Use Link On GitHub Website.md",
+    "Obsidian/ETC_Setting.md",
+    "Programming Language/Build_System",
+    "Unreal/Server/02_Unreal_Source_Code_Build.md",
     "Image/Pasted image 20250218223134.png",
     "Image/GAS_Project/GASproj_CreateABT.png",
     "IDE/Rider/Keyboard Shortcuts.md",
@@ -178,39 +262,12 @@
     "Career/GameDev_Terminology.md",
     "Unreal/UI/Frontend UI Subsystem.md",
     "Unreal/UI/Widget",
-    "Task List.md",
     "VCS/Perforce",
     "VCS",
-    "Server/Unreal Server Optimization.md",
-    "공부해야할것/단축키.md",
     "IDE/Rider",
     "IDE",
-    "Unreal/Blueprint/Tag-Node_Reference.md",
-    "Computer_Graphics/Math",
-    "Computer_Graphics/Shader(HLSL)",
-    "Computer_Graphics/DirectX",
-    "Unreal/Blueprint/Return_Node.md",
-    "System_Programming/Socket",
-    "System_Programming/Multi_Threading",
-    "공부해야할것/순서.md",
-    "Server/Server Refer.md",
-    "Programming Language/C++/WinAPI/function.md",
-    "Obsidian/How To Change Skin Theme.md",
-    "Obsidian/Markdown Math Syntax.md",
-    "Obsidian/How To Use Link On GitHub Website.md",
-    "Obsidian/Folder Custom Sorting.md",
-    "Obsidian/ETC_Setting.md",
-    "ETC/sortspec.md",
-    "VCS/Git/Push_&_Pull.md",
-    "VCS/Git/Reset.md",
-    "IDE/Visual_Studio/Error/VS_Error.md",
     "Image/Unreal/Add_AnimationKey_To_ControlRig_with_Sequencer.png",
     "Pasted image 20250621095200.png",
-    "Pasted image 20250621095318.png",
-    "Pasted image 20250621094644.png",
-    "Pasted image 20250621094826.png",
-    "Pasted image 20250621094947.png",
-    "Pasted image 20250621094606.png",
-    "Pasted image 20250621100658.png"
+    "Pasted image 20250621095318.png"
   ]
 }

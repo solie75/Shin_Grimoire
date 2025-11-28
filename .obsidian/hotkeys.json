@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Template/Arrow.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

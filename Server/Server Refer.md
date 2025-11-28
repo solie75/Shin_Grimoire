@@ -24,3 +24,9 @@ https://www.youtube.com/watch?v=1-ejsGzhF8A
 	1. https://www.udemy.com/course/unreal-engine-5-dedicated-servers-with-aws-and-gamelift/?couponCode=PMNVD2525
 2. Multiplayer in Unreal with GAS and AWS Dedicated Servers
 	1. https://www.udemy.com/course/multiplayer-in-unreal-with-gas-and-aws-dedicated-servers/?couponCode=PMNVD2525
+
+
+
+# # 넥슨코리아 - GameLift Deep Dive : GameLift 맞춤형 사용법
+https://www.youtube.com/watch?v=grHyzyHC5KA
+
