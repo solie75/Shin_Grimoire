@@ -19,3 +19,15 @@
 - stand for : ~의 약자이다. ~을 의미하다. / ~을 지지하다, 옹호하다
 - administrative privileges : 관리자 권한.
 - Cryptic : 비밀스러운, 수수께끼 같은, 이해하기 어려운 (의미가 모호하거나 숨겨져 있어 이해하기 어려운 상황이나 메시지를 묘사할 때 사용된다.)
+- Restrict : ~을 제한하다. (어떤 한계를 정해서 그 이상 못하게 막다.)
+	- Speed is restricted to 30 mph in this area (이 구역에서는 속도가 시속 30 마일로 제한된다.)
+	- The doctor told me torestrict my salt intake (의사가 나에게 소금 섭취를 줄이라고 (제한하라고) 했다.)
+	- Limit 가 최고치/ 한계치 자체에 초점을 둔다면 Restrict 는 누군가가 의도적으로 못 하게 통제하다 는 뉘앙스가 있다.
+- thus far : 
+	- 과거 부터 현재 이 순간 까지의 기간을 나타낸다. 
+	- Thus (이와 같이 / 여기까지 ) + Far (멀리) = 이만큼 멀리까지.
+	- thus far vs so far
+		- so far : 회화, 문자, 일상 대화에서 주로 사용됨.
+			- it's good so far : 지금까지 좋아
+		- thus far : 보고서, 뉴스, 연설, 논문 등에서 주로 사용된다.
+			- it is going well thus far : 현재까지 순조롭습니다.
