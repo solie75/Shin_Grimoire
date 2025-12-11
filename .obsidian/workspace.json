@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e3ddf8e6a25d170",
+            "id": "e8544b77a19c5c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대사 번역 임시 파일..md",
+                "file": "Unreal/Core/Engine Initialization & Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대사 번역 임시 파일."
+              "title": "Engine Initialization & Control"
+            }
+          },
+          {
+            "id": "60b52ee9b8a7fdad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Integrating GameLIft with UE5"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "EN_temp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mirror",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -180,52 +196,92 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e3ddf8e6a25d170",
+  "floating": {
+    "id": "fdd68e810c169076",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6f6292b5f496a8ce",
+        "type": "window",
+        "children": [
+          {
+            "id": "2ac13c813d8d8299",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef231482babd772a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "대사 번역 임시 파일..md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "대사 번역 임시 파일."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1105,
+        "y": 0,
+        "width": 541,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ef231482babd772a",
   "lastOpenFiles": [
-    "Server/Dedicated Server with AWS GameLift/2. AWS Account.md",
+    "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
     "대사 번역 임시 파일..md",
-    "Image/Server/AWS_CloudWatch_SubscriptionConfirmation.png",
-    "Image/Server",
-    "Unreal/Animation/AimMontage.md",
-    "Image/Server/AWS_CloudWatch_WarningMessage_for_Alarms.png",
+    "Unreal/Core/Engine Initialization & Control.md",
     "EN_temp.md",
-    "Server/Dedicated Server with AWS GameLift/1. Install GameLift Plugin.md",
-    "Today_Memo.md",
-    "Server/Dedicated Server with AWS GameLift/0. Intro.md",
-    "Unreal/Build/Build.cs.md",
-    "Task List.md",
-    "png to jpg.md",
-    "Pasted image 20251128183821.png",
-    "Pasted image 20251128183929.png",
-    "Pasted image 20251128184221.png",
-    "Pasted image 20251128184133.png",
-    "Pasted image 20251128184034.png",
-    "CS/Operating System/Linux/Linux_Basic.md",
-    "CS/Operating System/Linux",
-    "().md",
+    "Unreal/Collision/Collision.md",
+    "Unreal/Feature/Data_Driven_CVars(DDCVars).md",
+    "Unreal/Feature/Event, Delegate.md",
+    "Unreal/Feature/Smart_Pointor.md",
+    "Unreal/Feature/Thread.md",
+    "Unreal/Core/FString.md",
+    "Unreal/Feature/FString",
+    "Unreal/Server/04_Chat.md",
+    "Unreal/Server/03_Network_Between_Client_And_Server.md",
+    "Unreal/Server/02_Unreal_Source_Code_Build.md",
+    "Unreal/Server/00_Ref.md",
+    "Unreal/Server/00_Function.md",
+    "Unreal/Core",
+    "Server/Unreal Server Optimization.md",
     "Server/Server Refer.md",
-    "IDE/Visual_Studio/Setting.md",
+    "Server/Base/Port.md",
+    "Server/Base",
+    "Unreal/Animation/Animation Heritage.md",
+    "Obsidian/How to link.md",
+    "Obsidian/ETC_Setting.md",
+    "Obsidian/Folder Custom Sorting.md",
+    "Obsidian/How To Change Skin Theme.md",
     "Obsidian/How to create a custom hotkey to insert text.md",
-    "Template/Arrow.md",
-    "Untitled 1.md",
+    "Greed Fennec Studio/공고.md",
+    "Unreal/Macro.md",
+    "Image/Server/AWS_IdentityCenterUsers.png",
+    "Image/Server/AWS_Rejecting_Access_to_Bills_Pannel.png",
+    "Image/Server/AWS_CloudWatch_WarningMessage_for_Alarms.png",
+    "Image/Server/AWS_CloudWatch_SubscriptionConfirmation.png",
+    "Image/Server/AWS_Accounts_Organizational_structure.png",
+    "Image/Server/AWS_Access_Portal.png",
+    "Image/Server/AWS_Permission_Sets_List.png",
+    "Image/Server/AWS_UserList_In_IAM_Identity_Center.png",
+    "Image/Server/IAM_Identity_Center_Setup.png",
+    "Image/Server/AWS_Organizations.png",
+    "Image/Server/Untitled",
+    "Image/Server",
+    "CS/Operating System/Linux",
     "Template",
     "Untitled 1.base",
     "Untitled.base",
-    "Programming Language/Build_System/CMake.md",
-    "Obsidian/Markdown Math Syntax.md",
-    "Obsidian/How To Change Skin Theme.md",
-    "Obsidian/Folder Custom Sorting.md",
-    "Obsidian/How To Use Link On GitHub Website.md",
-    "Obsidian/ETC_Setting.md",
-    "Programming Language/Build_System",
-    "Unreal/Server/02_Unreal_Source_Code_Build.md",
-    "Image/Pasted image 20250218223134.png",
-    "Image/GAS_Project/GASproj_CreateABT.png",
-    "IDE/Rider/Keyboard Shortcuts.md",
-    "Unreal/UI/Widget",
-    "VCS/Perforce",
-    "VCS",
-    "IDE/Rider",
-    "Image/Unreal/Add_AnimationKey_To_ControlRig_with_Sequencer.png"
+    "Programming Language/Build_System"
   ]
 }
