@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8544b77a19c5c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal/Core/Engine Initialization & Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Engine Initialization & Control"
-            }
-          },
-          {
-            "id": "60b52ee9b8a7fdad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Integrating GameLIft with UE5"
-            }
-          },
-          {
             "id": "f56b2e14b191be94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN_temp.md",
+                "file": "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EN_temp"
+              "title": "7. AWS Lambda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ListFleets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -124,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Animation/Animation_Sample_Project_분석/Motion_Matching.md",
+                "file": "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Motion_Matching"
+              "title": "Backlinks for 7. AWS Lambda"
             }
           },
           {
@@ -226,62 +196,61 @@
           }
         ],
         "direction": "vertical",
-        "x": 1105,
+        "x": 1277,
         "y": 0,
-        "width": 541,
+        "width": 461,
         "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ef231482babd772a",
+  "active": "f56b2e14b191be94",
   "lastOpenFiles": [
-    "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
-    "대사 번역 임시 파일..md",
-    "Unreal/Core/Engine Initialization & Control.md",
+    "Image/Server/AWS_AddPermission_to_Lambda.png",
+    "Image/Server/AWS_IAM_PolicesList.png",
+    "Image/Server/AWS_IAM_Rules_LambdaRole_AddPermission.png",
+    "Image/Server/AWS_LambdaDashboard.png",
+    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
+    "Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
     "EN_temp.md",
-    "Unreal/Collision/Collision.md",
-    "Unreal/Feature/Data_Driven_CVars(DDCVars).md",
-    "Unreal/Feature/Event, Delegate.md",
-    "Unreal/Feature/Smart_Pointor.md",
-    "Unreal/Feature/Thread.md",
-    "Unreal/Core/FString.md",
-    "Unreal/Feature/FString",
-    "Unreal/Server/04_Chat.md",
+    "대사 번역 임시 파일..md",
+    "Image/Server/AWS_IAM_Roles.png",
+    "Image/Server/AWS_Role_AddPermissionsAction_JSON.png",
+    "Image/Server/AWS_Role_AddPermissionsAction_Visual.png",
+    "Image/Server/AWS_IAM_AddPermissionsAction_Policy.png",
+    "Untitled.base",
+    "Task List.md",
+    "Image/Server/AWS_Lambda_LogEvents_consoleLogResult.png",
+    "Image/Server/AWS_CloudWatch_Lambda_LogEvents.png",
+    "CS/Synchronous.md",
+    "Programming Language/Clean Code/CleanCode_Base.md",
+    "Algorithm/Brute_Force.md",
+    "Algorithm/STL_Cheatsheet.md",
+    "Career/GameDev_Terminology.md",
+    "Greed Fennec Studio/공고.md",
+    "Unreal/UI/Widget/CrossHair.md",
+    "Unreal/UI/Frontend UI Subsystem.md",
+    "Unreal/Udemy_강좌/GAS/진도/1_Setting.md",
     "Unreal/Server/03_Network_Between_Client_And_Server.md",
     "Unreal/Server/02_Unreal_Source_Code_Build.md",
+    "Unreal/Server/01_Server_Basic.md",
     "Unreal/Server/00_Ref.md",
     "Unreal/Server/00_Function.md",
+    "Unreal/Project/ChatBaseballGame_Project/readme.md",
+    "Unreal/Project/CP_Project(TPP_ShootingGame)/1_Animation.md",
+    "Unreal/Project/CP_Project(TPP_ShootingGame)/2_PlayerCharacer.md",
+    "Unreal/Library/FMath.md",
+    "Unreal/Feature/Thread.md",
+    "Unreal/Feature/Smart_Pointor.md",
+    "Server/Dedicated Server with AWS GameLift/Untitled",
+    "Programming Language/Clean Code",
+    "Unreal/Feature/FString",
     "Unreal/Core",
-    "Server/Unreal Server Optimization.md",
-    "Server/Server Refer.md",
-    "Server/Base/Port.md",
     "Server/Base",
-    "Unreal/Animation/Animation Heritage.md",
-    "Obsidian/How to link.md",
-    "Obsidian/ETC_Setting.md",
-    "Obsidian/Folder Custom Sorting.md",
-    "Obsidian/How To Change Skin Theme.md",
-    "Obsidian/How to create a custom hotkey to insert text.md",
-    "Greed Fennec Studio/공고.md",
-    "Unreal/Macro.md",
-    "Image/Server/AWS_IdentityCenterUsers.png",
-    "Image/Server/AWS_Rejecting_Access_to_Bills_Pannel.png",
-    "Image/Server/AWS_CloudWatch_WarningMessage_for_Alarms.png",
-    "Image/Server/AWS_CloudWatch_SubscriptionConfirmation.png",
-    "Image/Server/AWS_Accounts_Organizational_structure.png",
-    "Image/Server/AWS_Access_Portal.png",
-    "Image/Server/AWS_Permission_Sets_List.png",
-    "Image/Server/AWS_UserList_In_IAM_Identity_Center.png",
-    "Image/Server/IAM_Identity_Center_Setup.png",
-    "Image/Server/AWS_Organizations.png",
     "Image/Server/Untitled",
     "Image/Server",
     "CS/Operating System/Linux",
-    "Template",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Programming Language/Build_System"
+    "Template"
   ]
 }
