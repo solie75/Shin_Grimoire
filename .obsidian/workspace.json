@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
+                "file": "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. AWS Lambda"
+              "title": "8. API Gateway"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -207,22 +208,27 @@
   },
   "active": "f56b2e14b191be94",
   "lastOpenFiles": [
+    "대사 번역 임시 파일..md",
+    "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
+    "Image/Server/AWS_APIGateway_CreateRESTAPI.png",
+    "Image/Server/AWS_APIGateway_CreateResource.png",
+    "Image/Server/AWS_APIGateway_Dashboard.png",
+    "Image/Server/AWS_APIGateway_Resource_CreateMethod.png",
+    "Pasted image 20251227025622.png",
+    "Image/Server/AWS_APIGatewayExamplePlan.png",
+    "Server/Base/HTTP.md",
+    "Server/Base/Port.md",
+    "Server/Base/WebSocket.md",
+    "Server/Dedicated Server with AWS GameLift/AWS_Unreal_DedicatedServer_Execution_Log.md",
+    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
     "Image/Server/AWS_AddPermission_to_Lambda.png",
     "Image/Server/AWS_IAM_PolicesList.png",
     "Image/Server/AWS_IAM_Rules_LambdaRole_AddPermission.png",
     "Image/Server/AWS_LambdaDashboard.png",
-    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
     "Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
     "EN_temp.md",
-    "대사 번역 임시 파일..md",
-    "Image/Server/AWS_IAM_Roles.png",
-    "Image/Server/AWS_Role_AddPermissionsAction_JSON.png",
-    "Image/Server/AWS_Role_AddPermissionsAction_Visual.png",
-    "Image/Server/AWS_IAM_AddPermissionsAction_Policy.png",
     "Untitled.base",
     "Task List.md",
-    "Image/Server/AWS_Lambda_LogEvents_consoleLogResult.png",
-    "Image/Server/AWS_CloudWatch_Lambda_LogEvents.png",
     "CS/Synchronous.md",
     "Programming Language/Clean Code/CleanCode_Base.md",
     "Algorithm/Brute_Force.md",
@@ -238,11 +244,6 @@
     "Unreal/Server/00_Ref.md",
     "Unreal/Server/00_Function.md",
     "Unreal/Project/ChatBaseballGame_Project/readme.md",
-    "Unreal/Project/CP_Project(TPP_ShootingGame)/1_Animation.md",
-    "Unreal/Project/CP_Project(TPP_ShootingGame)/2_PlayerCharacer.md",
-    "Unreal/Library/FMath.md",
-    "Unreal/Feature/Thread.md",
-    "Unreal/Feature/Smart_Pointor.md",
     "Server/Dedicated Server with AWS GameLift/Untitled",
     "Programming Language/Clean Code",
     "Unreal/Feature/FString",
