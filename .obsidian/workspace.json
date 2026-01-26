@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f56b2e14b191be94",
+            "id": "3551d633cdb408dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
+                "file": "Server/Steam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. API Gateway"
+              "title": "Steam"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ListFleets",
+                "query": "Package",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -167,83 +166,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "fdd68e810c169076",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6f6292b5f496a8ce",
-        "type": "window",
-        "children": [
-          {
-            "id": "2ac13c813d8d8299",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ef231482babd772a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "대사 번역 임시 파일..md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "대사 번역 임시 파일."
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1277,
-        "y": 0,
-        "width": 461,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f56b2e14b191be94",
+  "active": "3551d633cdb408dd",
   "lastOpenFiles": [
+    "Greed Fennec Studio/2025년 인디게임 개발공보(예비 창업).md",
+    "Server/Steam.md",
+    "Programming Language/C++/Basic/Virtaul.md",
+    "Interview/가상함수 구동 원리 질문..md",
     "대사 번역 임시 파일..md",
-    "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
-    "Image/Server/AWS_APIGateway_CreateRESTAPI.png",
-    "Image/Server/AWS_APIGateway_CreateResource.png",
-    "Image/Server/AWS_APIGateway_Dashboard.png",
-    "Image/Server/AWS_APIGateway_Resource_CreateMethod.png",
-    "Pasted image 20251227025622.png",
-    "Image/Server/AWS_APIGatewayExamplePlan.png",
-    "Server/Base/HTTP.md",
-    "Server/Base/Port.md",
-    "Server/Base/WebSocket.md",
-    "Server/Dedicated Server with AWS GameLift/AWS_Unreal_DedicatedServer_Execution_Log.md",
-    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
-    "Image/Server/AWS_AddPermission_to_Lambda.png",
-    "Image/Server/AWS_IAM_PolicesList.png",
-    "Image/Server/AWS_IAM_Rules_LambdaRole_AddPermission.png",
-    "Image/Server/AWS_LambdaDashboard.png",
-    "Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
+    "Interview",
     "EN_temp.md",
-    "Untitled.base",
+    "GAS 기존 Server 로직 분석.md",
+    "GAS Server분석.md",
+    "GAS_Server_Code_Flow.md",
+    "project계획.md",
     "Task List.md",
-    "CS/Synchronous.md",
-    "Programming Language/Clean Code/CleanCode_Base.md",
-    "Algorithm/Brute_Force.md",
-    "Algorithm/STL_Cheatsheet.md",
-    "Career/GameDev_Terminology.md",
+    "Untitled.md",
     "Greed Fennec Studio/공고.md",
-    "Unreal/UI/Widget/CrossHair.md",
-    "Unreal/UI/Frontend UI Subsystem.md",
-    "Unreal/Udemy_강좌/GAS/진도/1_Setting.md",
-    "Unreal/Server/03_Network_Between_Client_And_Server.md",
+    "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
+    "Untitled.base",
+    "Unreal/Project/Text_RPG.md",
+    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
+    "Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
+    "Server/Dedicated Server with AWS GameLift/3. Identify Center, IAM.md",
+    "Image/Server/AWS_Configure_SSO_1.png",
+    "Image/Server/AWS_Configure_SSO_3.png",
+    "Image/Server/AWS_Configure_SSO_2.png",
+    "Server/Unreal Server Optimization.md",
+    "Server/Dedicated Server with AWS GameLift/AWS_Unreal_DedicatedServer_Execution_Log.md",
+    "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
+    "Server/Dedicated Server with AWS GameLift/5. Gamelift Anywhere Fleets.md",
+    "Server/Dedicated Server with AWS GameLift/2. AWS Account.md",
+    "Server/Dedicated Server with AWS GameLift/1. Install GameLift Plugin.md",
     "Unreal/Server/02_Unreal_Source_Code_Build.md",
-    "Unreal/Server/01_Server_Basic.md",
-    "Unreal/Server/00_Ref.md",
-    "Unreal/Server/00_Function.md",
-    "Unreal/Project/ChatBaseballGame_Project/readme.md",
+    "Unreal/Build/Build.cs.md",
+    "Image/Server/APITestOverlay1.png",
+    "Image/Server/APITestOverlay_OnScreen.png",
+    "Image/Server/Create_API_Test_Overlay_UserWidget.png",
+    "Image/Server/Create_API_Test_UI_Class.png",
+    "Image/Server/ADD_DedicatedServer_GameMode.png",
+    "Image/Server/AWS_APIGateway_ResourceStage.png",
+    "Image/Server/AWS_APIGateway_CreateRESTAPI.png",
     "Server/Dedicated Server with AWS GameLift/Untitled",
     "Programming Language/Clean Code",
     "Unreal/Feature/FString",
@@ -251,7 +213,6 @@
     "Server/Base",
     "Image/Server/Untitled",
     "Image/Server",
-    "CS/Operating System/Linux",
-    "Template"
+    "CS/Operating System/Linux"
   ]
 }

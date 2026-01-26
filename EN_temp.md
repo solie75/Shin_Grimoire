@@ -62,3 +62,71 @@
 	- 유익한, 지식을 주는
 - manifest
 	- 명백한, 드러나다.
+- 영어
+
+perceive
+1. 감지[인지]하다. (I perceived a change in his behavior; 나는 그의 행동에 변화가 있음을 감지했다.)
+2. ~을 (~로) 여기다. (This discovery was perceived as a major breakthrough
+
+ungodly
+신을 섬기지 않는, 사악한.
+
+conclude
+
+1. 결론[판단]을 내리다.
+2. 끝내다. 끝나다. 마치다.
+
+fraction
+
+1. 부분, 일부
+2. 분수
+
+boilerplate
+(사업상 서류, 법률적 합의안 등의) 표준 문안.
+
+imperative
+1. 반드시 해야 하는, 긴요한. (it is absolutely imperative that we finish by next week. : 우리는 다음 주 까지 이 일을 반드시 끝내야 한다.)
+
+versatile
+1. 다재다능한 (He's a versatile actor who has played a wide variety of parts.; 그는 대단히 다양한 역할을 해 온 다재다능한 배우이다.) 
+2. 다용도의, 다목적의 (Eggs are easy to cook and are an extremely versatile food; 달걀은 요리하기 쉽고 매우 다용도로 쓸 수 있는 식품이다.)
+
+opt
+1. (~을 하기로/ 하지 않기로) 택하다 ( after graduating she opted for a career in music.; 졸업 후에 그녀는 음악가의 길을 택했다.)
+2. 선택하다/ 결정을 내리다.
+
+fired off
+1. 자동으로 실행되다, 트리거 되다, 발동되다.
+2. 프로그래밍에서 'fire off a function' 이라고 하면 어떤 이벤트가 발생했을 때 그 함수가 자동으로 실행되는 것을 말한다
+
+syntax
+1. 구문론, 통사론
+2. (컴퓨터 언어의 ) 문법.
+
+
+restrict
+1. (크기, 양, 범위 등을) 제한하다.
+2. (자유로운 움직임을 ) 방해하다.
+3. (규칙, 법으로) 제한[통제]하다.
+
+enforce
+1. (법률 등을) 집행[시행/실시] 하다.
+2. 강요하다.
+
+conquer
+1. (다른 나라나 민족을) 정복하다.
+2. (시합, 경주 등에서) 이기다[물리치다]
+3. (다루기 힘든 것을) 정복하다[극복하다]
+
+depict
+1. (그림으로) 그리다.
+2. (말이나 그림으로) 묘사하다[그리다]
+
+outright
+1. 완전한, 전면적인 (an outright ban/ rejection/ vectory; 전면 금지, 전적인 거부, 완전한 승리)
+2. 노골적인 명백한 (There was outright opposition to the plan; 그 계획에 대해서는 노골적인 반대가 있었다.)
+
+magnitude
+1. (엄청난) 규모[중요도] (We did not realize the magnitude of the problem' 우리는 그 문제의 심각성을 깨닫지 못했다.)
+2. (별의) 광도
+3. 지진 규모
