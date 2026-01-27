@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "19cf15e30e488393",
+        "id": "5ac8c8d0e41f4fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "3551d633cdb408dd",
+            "id": "60743e13988db566",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server/Steam.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Steam"
+              "title": "New tab"
             }
           }
         ]
@@ -166,39 +162,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3551d633cdb408dd",
+  "active": "65d9f05638ba6732",
   "lastOpenFiles": [
-    "Greed Fennec Studio/2025년 인디게임 개발공보(예비 창업).md",
-    "Server/Steam.md",
-    "Programming Language/C++/Basic/Virtaul.md",
-    "Interview/가상함수 구동 원리 질문..md",
-    "대사 번역 임시 파일..md",
-    "Interview",
+    "project계획.md",
+    "09_Summary/CleanCode/01_11가지_원칙.md",
     "EN_temp.md",
+    "09_Summary/CleanCode",
+    "09_Summary",
+    "00_Projects",
+    "GAS_Server_Code_Flow.md",
+    "04_System_Programming/DirectX3D",
+    "Programming Language/Untitled",
+    "Task List.md",
+    "ETC/Career/Interview_Q&A.md",
+    "ETC/Career/GameDev_Terminology.md",
+    "ETC/Greed Fennec Studio/공고.md",
+    "ETC/Greed Fennec Studio/2025년 인디게임 개발공보(예비 창업).md",
+    "ETC/Template/Arrow.md",
+    "ETC",
+    "08_VCS/Git/Reset.md",
+    "08_VCS/Git/Push_&_Pull.md",
+    "대사 번역 임시 파일..md",
+    "07_Server/Steam.md",
     "GAS 기존 Server 로직 분석.md",
     "GAS Server분석.md",
-    "GAS_Server_Code_Flow.md",
-    "project계획.md",
-    "Task List.md",
-    "Untitled.md",
-    "Greed Fennec Studio/공고.md",
-    "Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
+    "02_Programming_Language/C++/Basic/Virtaul.md",
+    "ETC/Career/Interview/가상함수 구동 원리 질문..md",
+    "ETC/Career/Interview",
+    "07_Server/Dedicated Server with AWS GameLift/4. Integrating GameLIft with UE5.md",
     "Untitled.base",
-    "Unreal/Project/Text_RPG.md",
-    "Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
-    "Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
-    "Server/Dedicated Server with AWS GameLift/3. Identify Center, IAM.md",
+    "03_Unreal/Project/Text_RPG.md",
+    "07_Server/Dedicated Server with AWS GameLift/7. AWS Lambda.md",
+    "07_Server/Dedicated Server with AWS GameLift/6. Virtual Machine.md",
+    "07_Server/Dedicated Server with AWS GameLift/3. Identify Center, IAM.md",
     "Image/Server/AWS_Configure_SSO_1.png",
     "Image/Server/AWS_Configure_SSO_3.png",
     "Image/Server/AWS_Configure_SSO_2.png",
-    "Server/Unreal Server Optimization.md",
-    "Server/Dedicated Server with AWS GameLift/AWS_Unreal_DedicatedServer_Execution_Log.md",
-    "Server/Dedicated Server with AWS GameLift/8. API Gateway.md",
-    "Server/Dedicated Server with AWS GameLift/5. Gamelift Anywhere Fleets.md",
-    "Server/Dedicated Server with AWS GameLift/2. AWS Account.md",
-    "Server/Dedicated Server with AWS GameLift/1. Install GameLift Plugin.md",
-    "Unreal/Server/02_Unreal_Source_Code_Build.md",
-    "Unreal/Build/Build.cs.md",
+    "07_Server/Unreal Server Optimization.md",
+    "07_Server/Dedicated Server with AWS GameLift/AWS_Unreal_DedicatedServer_Execution_Log.md",
     "Image/Server/APITestOverlay1.png",
     "Image/Server/APITestOverlay_OnScreen.png",
     "Image/Server/Create_API_Test_Overlay_UserWidget.png",
@@ -207,12 +208,6 @@
     "Image/Server/AWS_APIGateway_ResourceStage.png",
     "Image/Server/AWS_APIGateway_CreateRESTAPI.png",
     "Server/Dedicated Server with AWS GameLift/Untitled",
-    "Programming Language/Clean Code",
-    "Unreal/Feature/FString",
-    "Unreal/Core",
-    "Server/Base",
-    "Image/Server/Untitled",
-    "Image/Server",
-    "CS/Operating System/Linux"
+    "02_Programming_Language/Clean Code"
   ]
 }

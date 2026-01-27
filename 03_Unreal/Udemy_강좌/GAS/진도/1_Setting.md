@@ -42,7 +42,7 @@ Aura 정상 컴파일 시키기
 
 - AnimInstance 생성
 - Main State Machine 과 Defualt Slot 생성.
-- [Default Slot 이란?](/Unreal/Animation/5_Animation_Blueprint.md#Animation_Slot)
+- [Default Slot 이란?](5_Animation_Blueprint.md#Animation_Slot)
 
 # Animation 클래스 구조와 Owner 관리
 

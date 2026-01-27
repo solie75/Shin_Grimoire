@@ -43,7 +43,7 @@ Motion Matching  + (State Controller(State Machine) + Blend Stack) -> Apply Mesh
 			2. Loop (boolen)
 			3. Start Time
 			4. Blend Time
-			5. [Blend Profile](/Unreal/Animation/7_Motion_Matching.md#Blend_Profile)
+			5. [Blend Profile](7_Motion_Matching.md#Blend_Profile)
 			6. Tags
 	2. Animation for StateMathine Chooser Table
 		- nest 구조

@@ -27,7 +27,7 @@ Listen Server 를 이용하여 RPC 를 호출해 채팅을 구현.
 
 8. BP_Controller 에서 Widget과 Event Dispatcher (Set Manager to User Controller) 를 바인딩한다.
 ![[PlayerController_With_ChatProject.png]]
-	1. [Get Remote Role 노드](/Unreal/Server/00_Function.md#Get_Remote_Role_Node)로 현재 ENetRole 이 None 이 아니라면 즉, 싱글플레이 상태가 아니라면 0.5 초 후에 다음 실행.
+	1. [Get Remote Role 노드](00_Function.md#Get_Remote_Role_Node)로 현재 ENetRole 이 None 이 아니라면 즉, 싱글플레이 상태가 아니라면 0.5 초 후에 다음 실행.
 	2. Get All Widgets of class 를 통해서 현재 Viewport 에 추가된 특정 위젯 클래스를 가진 모든 위젯 인스턴스를 가져온다.
 		1. Widget Class 로는 Widget Chat Window 를 선택하고 
 		2. Top Level Only 을 Enable 하여 최상위 부모 위젯(Add to Viewport() 로 직접 추가된 위젯들) 만 가져온다.
