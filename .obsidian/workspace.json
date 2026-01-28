@@ -11,10 +11,14 @@
             "id": "60743e13988db566",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Projects/DS_Project/DS_Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DS_Project Overview"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 256.5
   },
   "right": {
     "id": "00cd3b0bc039ffc3",
@@ -162,8 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65d9f05638ba6732",
+  "active": "60743e13988db566",
   "lastOpenFiles": [
+    "00_Projects/DS_Project/DS_Project Overview.md",
+    "00_Projects/DS_Project",
     "project계획.md",
     "09_Summary/CleanCode/01_11가지_원칙.md",
     "EN_temp.md",
@@ -207,7 +213,6 @@
     "Image/Server/ADD_DedicatedServer_GameMode.png",
     "Image/Server/AWS_APIGateway_ResourceStage.png",
     "Image/Server/AWS_APIGateway_CreateRESTAPI.png",
-    "Server/Dedicated Server with AWS GameLift/Untitled",
-    "02_Programming_Language/Clean Code"
+    "Server/Dedicated Server with AWS GameLift/Untitled"
   ]
 }
